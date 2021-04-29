@@ -1,5 +1,6 @@
 The format of this README file follows jjrunner's [stackoverflow project](https://github.com/jjrunner/stackoverflow/blob/master/README.md).
 
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -38,6 +39,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Airbnb for the data.  
+Must give credit to [Inside Airbnb](http://insideairbnb.com/get-the-data.html) for providing the data.  
 The dataset used in this analysis can be obtained at [here](https://www.kaggle.com/airbnb/seattle)
 You can find the Licensing for the data and other data at [Inside Airbnb](http://insideairbnb.com/get-the-data.html).  Otherwise, feel free to use the code here as you would like! 
