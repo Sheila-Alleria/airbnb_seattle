@@ -33,6 +33,8 @@ Overall, there are two purposes of this project:
 
 There are 1 notebook available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the thought process for individual steps. 
 
+There are also four datasets that are used for this case study in the folder "datasets/".
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://shxz.medium.com/how-to-make-your-airbnb-more-attractive-2d8146da4319).
