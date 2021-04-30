@@ -18,11 +18,16 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seattle Airbnb Open data in 2016 to better understand:
+For this project, I was interestested in using Seattle Airbnb Open data in 2016 to better understand two sets of questions:
 
+First: related to the attractiveness (popularity) of Airbnb homes
 1. On average, which areas/neighborhoods have Airbnbs with higher attractiveness (more popular)?
 2. How attractive Airbnbs are different from not-so-attractive Airbnbs?
 3. What features are more important for attractiveness?
+
+Second: related to the impacts of COVID
+1. What's the average availability in each neighborhood, and how that changes before and after COVID?
+2. How Airbnb prices change before and after COVID?
 
 Overall, there are two purposes of this project:
 
@@ -31,13 +36,19 @@ Overall, there are two purposes of this project:
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebook available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the thought process for individual steps. 
+There are two notebook available here to showcase work related to the above questions.  
+1. Attractiveness_Airbnb.ipynb, which deals with questions related to the attractiveness of Airbnb homes in Seattle area.
+2. COVID_Impacts.ipynb, which answers questions related to the impacts of COVID.
+
+Markdown cells were used to assist in walking through the thought process for individual steps. 
 
 There are also four datasets that are used for this case study in the folder "datasets/".
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://shxz.medium.com/how-to-make-your-airbnb-more-attractive-2d8146da4319).
+The main findings related to the attractiveness of Airbnb homes can be found at the post available [here](https://shxz.medium.com/how-to-make-your-airbnb-more-attractive-2d8146da4319).
+
+The exploration and results related to COVID impacts can be found in the COVID_Impacts.ipynb file.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
