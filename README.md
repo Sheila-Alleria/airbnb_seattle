@@ -12,7 +12,7 @@ The format of this README file follows jjrunner's [stackoverflow project](https:
 ## Installation <a name="installation"></a>
 
 The libraries used in this analysis process include:
-pandas, numpy, matplotlib.pyploy, seaborn, scipy, PIL, requests, io, sklearn
+pandas, numpy, matplotlib.pyplot, seaborn, scipy, PIL, requests, io, sklearn
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
