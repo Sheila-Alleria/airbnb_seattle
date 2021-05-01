@@ -36,10 +36,10 @@ Overall, there are two purposes of this project:
 ## File Descriptions <a name="files"></a>
 
 There are two notebook available here to showcase work related to the above questions.  
-1. Attractiveness_Airbnb.ipynb, which deals with questions related to the attractiveness of Airbnb homes in Seattle area.
-2. COVID_Impacts.ipynb, which answers questions related to the impacts of COVID.
+1. [Attractiveness_Airbnb.ipynb](https://github.com/sheilaxz/airbnb_seattle/blob/main/Attractiveness_Airbnb.ipynb), which deals with questions related to the attractiveness of Airbnb homes in Seattle area.
+2. [COVID_Impacts.ipynb](https://github.com/sheilaxz/airbnb_seattle/blob/main/COVID_Impacts.ipynb), which answers questions related to the impacts of COVID.
 
-Markdown cells were used to assist in walking through the thought process for individual steps. 
+Markdown cells in the two files were used to assist in walking through the thought process for individual steps. 
 
 There are also four datasets that are used for this case study in the folder "datasets/".
 
@@ -47,7 +47,7 @@ There are also four datasets that are used for this case study in the folder "da
 
 The main findings related to the attractiveness of Airbnb homes can be found at the post available [here](https://shxz.medium.com/how-to-make-your-airbnb-more-attractive-2d8146da4319).
 
-The exploration and results related to COVID impacts can be found in the COVID_Impacts.ipynb file.
+The exploration and results related to COVID impacts can be found in the [COVID_Impacts.ipynb](https://github.com/sheilaxz/airbnb_seattle/blob/main/COVID_Impacts.ipynb) file.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
